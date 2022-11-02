@@ -27,7 +27,8 @@ propsList[5].before(itemsTitle[0]);
 
 console.log(propsList);
 propsList[2].replaceWith(propsList[4]);
-propsList[4].append(propsList[2])
+itemsTitle[4].append(propsList[2]);
+
 
 
 
